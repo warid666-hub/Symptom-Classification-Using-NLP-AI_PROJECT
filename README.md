@@ -19,9 +19,9 @@ This project is an AI/NLP-based binary text classification system that classifie
 
 ## 📂 Dataset
 The dataset consists of three parts:
-1.Training set
-2.Validation set
-3.Test set
+  ## 1.Training set
+  ## 2.Validation set
+  ## 3.Test set
 
 Each sample contains:
 A symptom-related sentence
