@@ -3,15 +3,19 @@
 This project is an AI/NLP-based binary text classification system that classifies medical symptom descriptions into two categories using machine learning.
 
 ## 📌 Project Overview
-
-Domain: Artificial Intelligence / Natural Language Processing
-Task: Binary Text Classification
-Labels:
-0 → Class 0
-1 → Class 1
-Model Used: Logistic Regression
-Feature Extraction: TF-IDF
-Accuracy Achieved: 82.5%
+  ## Domain:
+       Artificial Intelligence / Natural Language Processing
+ ## Task: 
+      Binary Text Classification
+ ## Labels:
+      0 → Class 0
+      1 → Class 1
+ ## Model Used:
+      Logistic Regression
+##  Feature Extraction:
+          TF-IDF
+## Accuracy Achieved: 
+         82.5%
 
 ## 📂 Dataset
 The dataset consists of three parts:
